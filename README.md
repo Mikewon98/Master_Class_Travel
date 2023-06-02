@@ -1,6 +1,6 @@
 # master_travel_app
 
-Master classtravel app with flutter.
+Master class travel app with flutter.
 
 ## Getting Started
 
