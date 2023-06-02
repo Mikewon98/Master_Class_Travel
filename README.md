@@ -1,6 +1,6 @@
 # master_travel_app
 
-A new Flutter project.
+Master classtravel app with flutter.
 
 ## Getting Started
 
